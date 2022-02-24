@@ -4,15 +4,17 @@ Public repository associated with [Abductive Commonsense Reasoning, ICLR 2020](h
 
 # Setup
 
-1. Clone the repo
+1.  Create a Virtual Enviroment
+
+2.  Clone the repo
     ```
     git clone git@github.com:allenai/abductive-commonsense-reasoning.git
     ```
-2. Install requirements in a Python 3.7 environment
+3. Install requirements in a Python 3.7 environment
     ```
    pip install -r requirements.txt
    ```
-3. Download Data and Models
+4. Download Data and Models
     ```
     sh get-data.sh
     ```
