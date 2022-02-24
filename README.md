@@ -30,7 +30,7 @@ The script will create `data/` and `models/` directories containing subdirectori
 1. [Abductive Inference](anli/README.md)
     ### Interactive Demo
     ```
-    python demo.py --saved_model_dir models/bert-ft-lr1e-5-batch8-epoch4/ --gpu_id 0 --interactive
+     python demo.py --saved_model_dir models/anli/bert-ft-lr1e-5-batch8-epoch4/ --gpu_id 0 --interactive
     ```
 
 2. [Abductive Generation](anlg/README.md)
