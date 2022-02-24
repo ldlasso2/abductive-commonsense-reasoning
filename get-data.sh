@@ -19,3 +19,6 @@ wget https://storage.googleapis.com/ai2-mosaic/public/comet/vocabulary/vocab_400
 wget https://storage.googleapis.com/ai2-mosaic/public/abductive-commonsense-reasoning-iclr2020/models.zip -P . -nc
 unzip models.zip -d .
 rm models.zip
+
+cp anli/demo.py ./
+cp anlg/run_generation.py ./
