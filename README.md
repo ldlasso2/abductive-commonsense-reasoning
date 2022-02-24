@@ -32,6 +32,7 @@ The script will create `data/` and `models/` directories containing subdirectori
     ```
 
 2. [Abductive Generation](anlg/README.md)
+
     If your computer doesn't have a GPU, I recommend using google colab. Here link of Jupyter in colab.
     https://colab.research.google.com/drive/1IF8QeeAl7bmxlZ2WmNAEmm8Q4MnJyo4V?usp=sharing
 
